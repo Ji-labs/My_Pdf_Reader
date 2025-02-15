@@ -1,10 +1,7 @@
 PyPDF2
---no-cache-dir
-python-3.9.12
 streamlit
 langchain
-langchain-openai
+langchain-google-genai
 langchain-community
 faiss-cpu
-ChatGoogleGenerativeAI
 tiktoken
